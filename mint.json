@@ -42,7 +42,7 @@
         "menus/conexoes",
         "menus/agendamentos",
         "menus/usuarios",
-        "essentials/navigation"
+        "menus/respostarapida"
       ]
     }
   ],
