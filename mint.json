@@ -43,8 +43,8 @@
         "menus/agendamentos",
         "menus/usuarios",
         "menus/respostarapida",
-        "menus/tagskanban"
-
+        "menus/tagskanban",
+        "menus/integracoes"
       ]
     }
   ],
