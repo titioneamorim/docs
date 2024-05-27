@@ -25,12 +25,12 @@
     "name": "Acessar o sistema",
     "url": "https://app.soluschat.com.br"
   },
-  // "tabs": [
-  //   {
-  //     "name": "API Reference",
-  //     "url": "api-reference"
-  //   }
-  // ],
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
 
   ],
@@ -55,18 +55,18 @@
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      // "group": "API Documentation",
+      // "pages": [
+      //   "api-reference/introduction"
+      // ]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      // "group": "Endpoint Examples",
+      // "pages": [
+      //   "api-reference/endpoint/get",
+      //   "api-reference/endpoint/create",
+      //   "api-reference/endpoint/delete"
+      // ]
     },
      {
       "group": "Teste",
