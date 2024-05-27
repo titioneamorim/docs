@@ -42,7 +42,9 @@
         "menus/conexoes",
         "menus/agendamentos",
         "menus/usuarios",
-        "menus/respostarapida"
+        "menus/respostarapida",
+        "menus/tagskanban"
+
       ]
     }
   ],
