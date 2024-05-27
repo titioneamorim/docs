@@ -85,6 +85,12 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+     {
+      "group": "Teste",
+      "pages": [
+        "teste/teste"
+      ]
     }
   ],
   "footerSocials": {
