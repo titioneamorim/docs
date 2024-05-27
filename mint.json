@@ -40,7 +40,7 @@
       "pages": [
         "menus/fila",
         "menus/conexoes",
-        "essentials/images",
+        "menus/agendamentos",
         "essentials/settings",
         "essentials/navigation"
       ]
