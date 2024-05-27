@@ -41,7 +41,7 @@
         "menus/fila",
         "menus/conexoes",
         "menus/agendamentos",
-        "essentials/settings",
+        "menus/usuarios",
         "essentials/navigation"
       ]
     }
