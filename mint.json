@@ -17,22 +17,18 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Suporte",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Acessar o sistema",
+    "url": "https://app.soluschat.com.br"
   },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
-    },
-    {
-      "name": "Teste",
-      "url": "teste"
     }
   ],
   "anchors": [
