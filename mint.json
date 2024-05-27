@@ -38,7 +38,7 @@
     {
       "group": "Menus",
       "pages": [
-        "menus/filas",
+        "menus/fila",
         "menus/conexoes",
         "essentials/images",
         "essentials/settings",
