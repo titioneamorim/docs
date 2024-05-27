@@ -42,8 +42,7 @@
         "menus/conexoes",
         "essentials/images",
         "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/navigation"
       ]
     }
   ],
