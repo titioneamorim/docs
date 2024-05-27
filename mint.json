@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Soluschat - Documentação",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -17,52 +17,26 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "https://api.whatsapp.com/send?phone=5548988791489&text=Ol%C3%A1,%20tenho%20uma%20d%C3%BAvida%20sobre%20o%20SolusChat%20"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Acessar o sistema",
+    "url": "https://app.soluschat.com.br"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    },
-    {
-      "name": "Teste",
-      "url": "teste"
-    }
-  ],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
+
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Início",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introducao"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Menus",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -71,31 +45,10 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    },
-     {
-      "group": "Teste",
-      "pages": [
-        "teste/teste"
-      ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "instagram": "https://x.com/mintlify",
+    "facebook": "https://github.com/mintlify"
   }
 }
