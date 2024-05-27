@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://api.whatsapp.com/send?phone=5548988791489&text=Ol%C3%A1,%20tenho%20uma%20d%C3%BAvida%20sobre%20o%20SolusChat%20"
     }
   ],
   "topbarCtaButton": {
