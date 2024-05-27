@@ -40,7 +40,7 @@
       ]
     },
     {
-      "group": "Menus",
+      "group": "Funcionalidades",
       "pages": [
         "menus/fila",
         "menus/conexoes",
