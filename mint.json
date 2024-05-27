@@ -32,9 +32,7 @@
     {
       "group": "Início",
       "pages": [
-        "introducao",
-        "quickstart",
-        "development"
+        "introducao"
       ]
     },
     {
