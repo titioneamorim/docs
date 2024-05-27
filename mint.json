@@ -39,7 +39,7 @@
       "group": "Menus",
       "pages": [
         "menus/fila",
-        "essentials/code",
+        "menu/conexoes",
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
