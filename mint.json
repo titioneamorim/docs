@@ -46,8 +46,9 @@
     {
       "group": "Funcionalidades",
       "pages": [
-        "menus/fila",
+        "menus/dashboard",
         "menus/painel_atendimento",
+        "menus/fila",
         "menus/conexoes",
         "menus/agendamentos",
         "menus/usuarios",
