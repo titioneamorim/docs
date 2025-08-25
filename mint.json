@@ -3,7 +3,7 @@
   "name": "Soluschat - Documentação",
   "logo": {
     "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "light": "/logo/dark.png"
   },
   "favicon": "/favicon.png",
   "colors": {
