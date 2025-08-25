@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Soluschat - Documentação",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/dark.png"
+    "dark": "/images/SolusChat(2).png",
+    "light": "/images/SolusChat(2).png"
   },
   "favicon": "/favicon.png",
   "colors": {
